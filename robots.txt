@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johnsoncityhvacco.com/sitemap.xml
